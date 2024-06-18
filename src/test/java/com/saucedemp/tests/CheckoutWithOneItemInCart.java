@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class CheckoutWithValidCard extends BaseTest {
+public class CheckoutWithOneItemInCart extends BaseTest {
 
 
 

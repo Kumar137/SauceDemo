@@ -6,7 +6,7 @@
     </listeners>
     <test name="Test">
         <classes >
-            <class name="com.saucedemp.tests.CheckoutWithValidCard" />
+            <class name="com.saucedemp.tests.CheckoutWithOneItemInCart" />
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
