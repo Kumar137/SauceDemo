@@ -1,0 +1,12 @@
+com\saucedemo\pages\ProductPage.class
+com\saucedemo\utils\ExtentManager.class
+com\saucedemo\pages\LoginPage.class
+com\saucedemo\utils\Driver.class
+com\saucedemo\utils\Listener.class
+com\saucedemo\utils\ReportUtils.class
+com\saucedemo\utils\GenericUtils.class
+com\saucedemo\utils\Constants.class
+com\saucedemo\pages\CheckoutOverview.class
+com\saucedemo\pages\CheckoutComplete.class
+com\saucedemo\pages\CartPage.class
+com\saucedemo\pages\Checkout.class
